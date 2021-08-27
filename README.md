@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanver-ali
+- 👋 Hi, I'm Tanveer Ali 
 
 - 👀 I’m currently working as a Salesforce Developer
 - 🌱 I’m currently learning Apex, Visualforce Page and Lightning Web Component
